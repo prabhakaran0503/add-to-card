@@ -122,7 +122,7 @@ function nameoffun(e){
    
                
      else if(regconfirmpassword.value != regpassword.value){
-        samepassword.innerHTML="Password Dows Not Macth";
+        samepassword.innerHTML="Password Does Not Match";
     }
     else{
         samepassword.innerHTML="";
